@@ -90,10 +90,10 @@ const kerim0x1 = {
 ## Stack
 
 <a href="https://www.kerim0x1.com">
-  <img src="https://skillicons.dev/icons?i=ts,java,rust,cs,py,nodejs,express,react,nextjs,vue,astro,electron,tauri,postgres,sqlite,redis,docker,cloudflare,vercel,figma&perline=10" alt="TypeScript, Java, Rust, C#, Python, Node.js, Express, React, Next.js, Vue.js, Astro, Electron, Tauri, PostgreSQL, SQLite, Redis, Docker, Cloudflare, Vercel, Figma">
+  <img src="https://skillicons.dev/icons?i=ts,cpp,java,rust,golang,py,nodejs,express,react,nextjs,vue,astro,electron,tauri,postgres,mysql,redis,docker,cloudflare,vercel,figma,webpack&perline=11" alt="TypeScript, C++, Java, Rust, Go, Python, Node.js, Express, React, Next.js, Vue.js, Astro, Electron, Tauri, PostgreSQL, MySQL, Redis, Docker, Cloudflare, Vercel, Figma, Webpack">
 </a>
 
-<sub>Plus TanStack, Framer, AI SDK, Eve, AI Gateway, Claude and Codex.</sub>
+<sub>Plus TanStack, Framer, C#, Kotlin, Swift, AI SDK, Eve, AI Gateway, Claude and Codex.</sub>
 
 <br>
 
