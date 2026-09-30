@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I’m kerim0x1</title>
+  <desc id="desc">I design and build software end to end: web products, AI agents, desktop tools, game infrastructure and anti-cheat systems. Available for work, based in Germany.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.24"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.82" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dots-mask">
+      <rect width="1280" height="420" fill="url(#fade)"/>
+    </mask>
+    <linearGradient id="mark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="1280" height="420" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="420" fill="#0f0f10"/>
+    <rect width="1280" height="420" fill="url(#dots)" mask="url(#dots-mask)"/>
+    <text x="1216" y="318" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="230" font-weight="700" fill="none" stroke="url(#mark)" stroke-width="2" letter-spacing="-8">0x1</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+    <text x="72" y="84" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" fill="#9a9a96">FULL STACK · AI AGENTS · SYSTEMS</text>
+
+    <text x="70" y="172" font-size="64" font-weight="600" letter-spacing="-1.5" fill="#ececea">Hello, I’m kerim0x1</text>
+
+    <text font-size="25" fill="#9a9a96">
+      <tspan x="72" y="226">I design and build software end to end:</tspan>
+      <tspan x="72" y="262">web products, AI agents, desktop tools,</tspan>
+      <tspan x="72" y="298">game infrastructure and anti-cheat systems.</tspan>
+    </text>
+
+    <rect x="72" y="332" width="212" height="40" rx="20" fill="#4ade80" fill-opacity="0.08" stroke="#4ade80" stroke-opacity="0.35"/>
+    <circle cx="96" cy="352" r="5" fill="#4ade80">
+      <animate attributeName="opacity" values="1;0.45;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="96" cy="352" r="5" fill="none" stroke="#4ade80" stroke-width="2">
+      <animate attributeName="r" values="5;13" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="112" y="359" font-size="18" font-weight="500" fill="#ececea">Available for work</text>
+
+    <text x="304" y="359" font-size="18" fill="#9a9a96">Germany  ·  kerim0x1.com</text>
+  </g>
+</svg>
