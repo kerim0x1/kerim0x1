@@ -10,6 +10,8 @@
 
 <br>
 
+> **ℹ️ If you know how to remove fake stars, please contact me — it's annoying.**
+
 I take products from raw idea to shipped system and own the design, architecture and engineering in between. Full Stack Engineer, Agency Founder and Reverse Engineer.
 
 ```ts
